@@ -21,10 +21,8 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{inc.}
-\BIBentryALTinterwordspacing
-R.~Inc., ``Dive into anything.'' [Online]. Available:
-  \url{https://www.redditinc.com/}
-\BIBentrySTDinterwordspacing
+\bibitem{original}
+M.~Stephenson and S.~Amarasinghe, ``Predicting unroll factors using supervised
+  classification,'' vol. 2005, 04 2005, pp. 123-- 134.
 
 \end{thebibliography}
